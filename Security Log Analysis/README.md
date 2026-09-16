@@ -9,7 +9,7 @@ The objective was to identify suspicious authentication activity, detect potenti
 
 The analysis was performed individually using **Microsoft Excel**, with filters, sorting, and pivot tables used to investigate the dataset.
 
-> **Note:** This project used a training dataset created for cybersecurity analysis and does not represent a real-world security incident.
+> **Note:** This project was completed as part of a cybersecurity analysis assignment using a provided security log dataset. The dataset's original organizational source was not specified in the assignment materials.
 
 ## Analysis Objectives
 
