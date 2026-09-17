@@ -52,7 +52,7 @@ corroborating the timeline.
 
 ---
 
-## Task 3: Windows Memory Forensics (TryHackMe)
+## Task 3: Windows Memory Forensics 
 
 **Scenario:** Investigation of a Windows memory dump from a system 
 suspected of Meterpreter infection.
@@ -75,7 +75,7 @@ process memory.
 
 ---
 
-## Task 4: Linux Memory Forensics (TryHackMe)
+## Task 4: Linux Memory Forensics 
 
 **Scenario:** Investigation of a compromised Ubuntu 20.04 system via 
 a 4.29 GB memory dump.
