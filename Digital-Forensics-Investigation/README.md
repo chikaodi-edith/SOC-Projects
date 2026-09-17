@@ -108,5 +108,5 @@ The `Report` folder contains the detailed technical reports for all
 four tasks. The `Screenshots` folder contains supporting evidence.
 
 **Note:** All investigations were conducted using simulated/training 
-evidence files (TryHackMe rooms and course-provided disk/memory images). 
-No real personal or organizational data is involved.
+evidence files (disk images, memory dumps, and course-provided 
+scenarios). No real personal or organizational data is involved.
